@@ -1,5 +1,5 @@
 // Importar módulos necesarios
-const express = require('express');
+import express from 'express';
 
 // Inicializar la aplicación Express
 const app = express();
